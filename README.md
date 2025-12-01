@@ -4,10 +4,7 @@ My name is **Thanh Binh**.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ng%C3%B4-vi%E1%BA%BFt-thanh-b%C3%ACnh-254b53226/) 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thanhbinh55) 
-[![Youtube]) Youtube]()
 
-![Binh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thanhbinh55&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/thanhbinh55/DOAN-CARO/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhbinh55&repo=DOAN-CARO&theme=radical" />
