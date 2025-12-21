@@ -9,14 +9,7 @@ My name is **Thanh Binh**
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/thanhbinh55/NHOM1-CARO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhbinh55&repo=NHOM1-CARO&theme=radical" />
-</a>
-
 <a href="https://github.com/thanhbinh55/Remote_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhbinh55&repo=Remote_Project&theme=merko" />
 </a>
 
-<a href="https://github.com/thanhbinh55/CSLT---N---CARO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhbinh55&repo=CSLT---N---CARO&theme=gruvbox" />
-</a>
