@@ -48,6 +48,15 @@ I am a Computer Science undergraduate in the **Honors Program at VNUHCM - Univer
 
 ---
 
+#### [Handwritten to Data (RUKOPYS HTR)](https://github.com/thanhbinh55/Handwritten_To_Data)
+> Two-stage Ukrainian handwritten text recognition and document understanding pipeline for Kaggle RUKOPYS.
+> - Integrated YOLO layout region detection, reading-order geometric sorting, and crop text recognition powered by fine-tuned Qwen3-VL LoRA.
+> - Engineered conservative postprocessing to eliminate duplicate bounding boxes and token repetition loops, achieving a Leaderboard Score of `0.66754`.
+>
+> `Python` `PyTorch` `YOLO` `Qwen-VL` `LoRA` `OCR` `Transformers`
+
+---
+
 #### [LAN Remote Desktop Application](https://github.com/thanhbinh55/Computer_Network_Remote_Desktop_Application)
 > Low-latency client-server remote administration and streaming suite for local networks.
 > - Designed custom bidirectional JSON-over-WebSocket protocol with screen and webcam streaming.
